@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World
+          Boniuś to niezły git. Jest zajebisty
         </a>
       </header>
     </div>
