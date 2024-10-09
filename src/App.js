@@ -17,6 +17,7 @@ function App() {
         >
           Boniuś to niezły git. Jest bardzo zajebisty
         </a>
+        <input></input>
       </header>
     </div>
   );
