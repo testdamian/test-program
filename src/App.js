@@ -17,6 +17,7 @@ function App() {
         >
           Boniuś to niezły git. Jest zajebisty
         </a>
+        <button onClick={() => alert("essa")}>Essa</button>
       </header>
     </div>
   );
