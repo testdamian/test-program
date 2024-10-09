@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Boniuś to niezły git. Jest zajebisty
+          Boniuś to niezły git. Jest bardzo zajebisty
         </a>
       </header>
     </div>
